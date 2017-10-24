@@ -24,15 +24,18 @@ A Spring MVC web application to
 * Update files to S3
 * Delete file from S3
 
+### Sample Demo Screenshots
+
+
+
 ### Pre-requisites Set Up
 
 * AWS configurations
 
 * Signup for an account in AWS
-- Go to IAM and create groups and attach policies ao that they have full access to S3 , RDS ,CloudWatch,CloudFront,Route 53,Lambda and     SNS
-- Attach a user to this group.
-
-1. IAM creates a link with which we can log in.
+Go to IAM and create groups and attach policies ao that they have full access to S3 , RDS ,CloudWatch,CloudFront,Route 53,Lambda and     SNS
+Attach a user to this group.
+IAM creates a link with which we can log in.
 
 * S3
 
@@ -123,12 +126,12 @@ To make our applcation publicly available with the registered domain name, click
 
 
 
-* Local Set Up
+### Local Set Up
 
-Intelij - I have downloaded Intelij 2.5 version for wirting JAVA code in my local.
-SPRING MVC framework - I have used spring mvc framework in my application.I have imported all the jars into my lib folder in my project.
-AWS SDK and JAVA SDK - These SDK's are necessary for integrating amazon services with out code and eclipse.
-Apache Tomcat V8 - web server has been installed in my Intelij.
+* Intelij - I have downloaded Intelij 2.5 version for wirting JAVA code in my local.
+* SPRING MVC framework - I have used spring mvc framework in my application.I have imported all the jars into my lib folder in my project.
+* AWS SDK and JAVA SDK - These SDK's are necessary for integrating amazon services with out code and eclipse.
+* Apache Tomcat V8 - web server has been installed in my Intelij.
 
 
 
