@@ -1,8 +1,8 @@
 ******************************
-Project Name: aws-app
+#### Project Name: aws-app
 ******************************
 
-Project URL: [aws-app](http://www.rupalmartin.com/AWSApp-1.0-SNAPSHOT)
+### Project URL: [aws-app](http://www.rupalmartin.com/AWSApp-1.0-SNAPSHOT)
 
 * University Name: http://www.sjsu.edu/
 * Course: Cloud Technologies
@@ -33,8 +33,8 @@ A Spring MVC web application to
 * AWS configurations
 
 * Signup for an account in AWS
-Go to IAM and create groups and attach policies ao that they have full access to S3 , RDS ,CloudWatch,CloudFront,Route 53,Lambda and     SNS
-Attach a user to this group.
+--- Go to IAM and create groups and attach policies ao that they have full access to S3 , RDS ,CloudWatch,CloudFront,Route 53,Lambda and     SNS
+---Attach a user to this group.
 IAM creates a link with which we can log in.
 
 * S3
