@@ -19,17 +19,17 @@ Project URL: [aws-app](http://www.rupalmartin.com/AWSApp-1.0-SNAPSHOT)
 
 ### Project Introduction
 A Spring MVC web application to
-*Upload files to S3
-*Dowload files to S3
-*Update files to S3
-*Delete file from S3
+* Upload files to S3
+* Dowload files to S3
+* Update files to S3
+* Delete file from S3
 
 ### Pre-requisites Set Up
 
 * AWS configurations
 
 * Signup for an account in AWS
-Go to IAM and create groups and attach policies ao that they have full access to S3 , RDS ,CloudWatch,CloudFront,Route 53,Lambda and SNS
+. Go to IAM and create groups and attach policies ao that they have full access to S3 , RDS ,CloudWatch,CloudFront,Route 53,Lambda and SNS
 Attach a user to this group.
 
 IAM creates a link with which we can log in.
