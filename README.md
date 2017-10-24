@@ -11,20 +11,20 @@ Project URL: [aws-app](http://www.rupalmartin.com/AWSApp-1.0-SNAPSHOT)
 * Student: Rupal Martin 
 * Linkedin URL: [Rupal Martin](https://www.linkedin.com/in/rupal-martin-34272272/)
 
-* Table of Contents
+### Table of Contents
 * Project Introduction
 * Sample Demo Screenshoots
 * Prerequisite setup
 * How to set up and run project locally
 
-*Project Introduction
+### Project Introduction
 A Spring MVC web application to
 *Upload files to S3
 *Dowload files to S3
 *Update files to S3
 *Delete file from S3
 
-* Pre-requisites Set Up
+### Pre-requisites Set Up
 
 * AWS configurations
 
