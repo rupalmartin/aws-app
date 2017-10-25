@@ -59,7 +59,7 @@ select * from users;
 
  * For each file upload, application is track following fields of Users
 
-![login2](images/images/update_db.jpg?raw=true "login2")
+![login2](images/update_db.jpg?raw=true "login2")
 
 * Download
 
