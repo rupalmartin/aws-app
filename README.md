@@ -93,7 +93,7 @@ Go to IAM and create groups and attach policies ao that they have full access to
   * A confirmation mail will be sent to your email/mobile.Confirm it and start using the service.
 CloudWatch
 
- *CloudWatch is used for monitoring metrics of various resources in AWS
+ * CloudWatch is used for monitoring metrics of various resources in AWS
 
  * Click on Create Alarm
 
@@ -109,15 +109,15 @@ CloudWatch
 
 * Project Deployment on EC2 instance
 
-I have chosen deployed my web application on EC2 instance
-I have installed apache tomcat server  version 7 on ec2 instance.
-Now in order to deploy our file - Create a war of your project and upload it in this environment.Click on deploy.If everything goes well you will get a URL with which you access your application.
+ * I have chosen deployed my web application on EC2 instance
+ * I have installed apache tomcat server  version 7 on ec2 instance.
+ * Now in order to deploy our file - Create a war of your project and upload it in this environment.Click on deploy.If everything goes  * well you will get a URL with which you access your application.
 Route 53
 
-* I have registered my domain on godaddy.com and have added the Name servers of Route 53 to it. It connects the end users to your applcation by converting domain names to IP addresses
+ * I have registered my domain on godaddy.com and have added the Name servers of Route 53 to it. It connects the end users to your applcation by converting domain names to IP addresses
 Click on Route 53
 
-* Route 53
+ *Route 53
 
 Click on Create Hosted Zones
 
