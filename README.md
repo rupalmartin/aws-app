@@ -69,9 +69,15 @@ select * from users;
 
 ![login2](images/delete.jpg?raw=true "login2")
 
+ * Confirm the deletion message.
+
 ![login2](images/delete_confirm.jpg?raw=true "login2")
 
+ * Success message is displayed after deletion of the file. 
+
 ![login2](images/delete_success.jpg?raw=true "login2")
+
+ * Record deleted from Database:
 
 ![login2](images/delete_db.jpg?raw=true "login2")
 
