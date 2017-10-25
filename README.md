@@ -197,6 +197,27 @@ CloudWatch
 * AWS SDK and JAVA SDK - These SDK's are necessary for integrating amazon services with out code and eclipse.
 * Apache Tomcat V8 - web server has been installed in my Intelij.
 
+###How to set up and run project locally
+
+* Open Intelij. Click on New project and select Dynamic Web Application.Check the checkbox for generating web.xml file.Click on Finish.You can see the project in project explorer.
+
+* Click on helpin Intelij and install new software.
+
+* Select the path where you have your web servers folder and click on install.
+
+* Apache tomcat will be installed in Intelij now.
+
+* Right click on the project and click on properties.
+
+* Select targeted runtimes and select apache tomcat 8 for building and deploying the project
+
+* To run the applcation, right click on the project and give run as and select run on server.
+
+* Apache tomcat will be started.
+
+* Give localhost:8080/yourapplicationname
+
+* This opens the web application in the browser.
 
 
 
