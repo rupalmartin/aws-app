@@ -41,11 +41,11 @@ select * from users;
 
 ![login2](images/upload.jpg?raw=true "upload")
 
- * File uploaded successfully(sample.jpeg)
+  * File uploaded successfully(sample.jpeg)
 
 ![login2](images/upload2.jpg?raw=true "login2")
 
- * For each file upload, application is track following fields of Users:
+  * For each file upload, application is track following fields of Users:
 
 ![login2](images/upload_db.jpg?raw=true "login2")
 
@@ -53,11 +53,11 @@ select * from users;
 
 ![login2](images/upload.jpg?raw=true "upload")
 
-  *  File uploaded successfully(sample.jpeg) and file time updated in update time.
+   *  File uploaded successfully(sample.jpeg) and file time updated in update time.
 
 ![login2](images/update.jpg?raw=true "login2")
 
- * For each file upload, application is track following fields of Users
+  * For each file upload, application is track following fields of Users
 
 ![login2](images/update_db.jpg?raw=true "login2")
 
@@ -65,19 +65,19 @@ select * from users;
 
 ![login2](images/download.jpg?raw=true "login2")
 
-* Deleting a file:
+ * Deleting a file:
 
 ![login2](images/delete.jpg?raw=true "login2")
 
- * Confirm the deletion message.
+  * Confirm the deletion message.
 
 ![login2](images/delete_confirm.jpg?raw=true "login2")
 
- * Success message is displayed after deletion of the file. 
+  * Success message is displayed after deletion of the file. 
 
 ![login2](images/delete_success.jpg?raw=true "login2")
 
- * Record deleted from Database:
+  * Record deleted from Database:
 
 ![login2](images/delete_db.jpg?raw=true "login2")
 
