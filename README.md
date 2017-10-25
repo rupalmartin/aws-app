@@ -64,19 +64,19 @@ Go to IAM and create groups and attach policies ao that they have full access to
 
    * Give DB instance
 
- * Click No for multi AZ development
+   * Click No for multi AZ development
 
- * Create a name for the instance and provide master username and password.
+   * Create a name for the instance and provide master username and password.
 
-Give a database name
+   * Give a database name
 
-And leave the rest as default and click on launch instance.
+  * And leave the rest as default and click on launch instance.
 
-Once it is launched you can install Workbench to work in your local.
+  * Once it is launched you can install Workbench to work in your local.
 
-The db instance created will give you a host end point with which we log into our workbench.
+  * The db instance created will give you a host end point with which we log into our workbench.
 
-Provide end point, master username and password creted at the time of creation of the db instance.
+  * Provide end point, master username and password creted at the time of creation of the db instance.
 
 * SNS(Simple Service notification)
 
