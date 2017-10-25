@@ -41,7 +41,11 @@ select * from users;
 
 ![login2](images/upload.jpg?raw=true "upload")
 
+ * File uploaded successfully(sample.jpeg)
+
 ![login2](images/upload2.jpg?raw=true "login2")
+
+ * For each file upload, application is track following fields of Users:
 
 ![login2](images/upload_db.jpg?raw=true "login2")
 
