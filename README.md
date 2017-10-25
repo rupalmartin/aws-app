@@ -39,7 +39,7 @@ IAM creates a link with which we can log in.
 
 * S3
 
-Select S3 from services menu.Click on create bucket.
+  * Select S3 from services menu.Click on create bucket.
 
 Provide a bucket name, specify the region where you want the bucket to be created,enable versioning and click on create.
 
