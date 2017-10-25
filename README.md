@@ -49,7 +49,7 @@ select * from users;
 
 ![login2](images/upload_db.jpg?raw=true "login2")
 
-* Update: file time is updated 
+* Update:
 
 ![login2](images/upload.jpg?raw=true "upload")
 
@@ -61,8 +61,6 @@ select * from users;
  * For each file upload, application is track following fields of Users:
 
 ![login2](images/images/update_db.jpg?raw=true "login2")
-
-
 
 * Download
 
