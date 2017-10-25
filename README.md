@@ -47,11 +47,14 @@ select * from users;
 
 * Update: file time is updated 
 
-![login2](images/update.jpg?raw=true "login2")
-
- * File uploaded successfully(sample.jpeg)
+* File uploaded successfully(sample.jpeg)
 
 ![login2](images/upload2.jpg?raw=true "login2")
+
+ * file time updated in update time.
+
+![login2](images/update.jpg?raw=true "login2")
+
 
  * For each file upload, application is track following fields of Users:
 
