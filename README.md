@@ -32,7 +32,7 @@ A Spring MVC web application to
 
 ![login2](/images/login2.jpg?raw=true "login2")
 
- *	Database Entry: User details in database:
+  * 	Database Entry: User details in database:
 select * from users;
 
 ![login2](images/db_login.jpg?raw=true "login2")
@@ -49,11 +49,15 @@ select * from users;
 
 ![login2](images/update.jpg?raw=true "login2")
 
-![login2](images/images/update_db.jpg?raw=true "login2")
-
-* File uploaded successfully(sample.jpeg)
+ * File uploaded successfully(sample.jpeg)
 
 ![login2](images/upload2.jpg?raw=true "login2")
+
+ * For each file upload, application is track following fields of Users:
+
+![login2](images/images/update_db.jpg?raw=true "login2")
+
+
 
 * Download
 
