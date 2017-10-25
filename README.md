@@ -30,6 +30,17 @@ A Spring MVC web application to
 
 ![login2](/images/login2.jpg?raw=true "login2")
 
+![login2](images/upload.jpg.jpg?raw=true "upload")
+![login2](images/upload2.jpg.jpg?raw=true "login2")
+![login2](images/upload_db.jpg.jpg?raw=true "login2")
+![login2](images/update.jpg.jpg?raw=true "login2")
+![login2](images/download.jpg.jpg?raw=true "login2")
+![login2](images/download_cloudfront.jpg?raw=true "login2")
+![login2](images/delete.jpg?raw=true "login2")
+![login2](images/delete_confirm.jpg?raw=true "login2")
+![login2](images/delete_success.jpg?raw=true "login2")
+![login2](images/delete_db.jpg?raw=true "login2")
+
 ### Pre-requisites Set Up
 
 * AWS configurations
