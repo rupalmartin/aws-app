@@ -51,11 +51,9 @@ select * from users;
 
 * Update: file time is updated 
 
-  *  File uploaded successfully(sample.jpeg)
+![login2](images/upload.jpg?raw=true "upload")
 
-![login2](images/upload2.jpg?raw=true "login2")
-
- * file time updated in update time.
+  *  File uploaded successfully(sample.jpeg) and file time updated in update time.
 
 ![login2](images/update.jpg?raw=true "login2")
 
