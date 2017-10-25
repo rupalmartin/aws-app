@@ -57,8 +57,7 @@ select * from users;
 
 ![login2](images/update.jpg?raw=true "login2")
 
-
- * For each file upload, application is track following fields of Users:
+ * For each file upload, application is track following fields of Users
 
 ![login2](images/images/update_db.jpg?raw=true "login2")
 
