@@ -80,28 +80,32 @@ Go to IAM and create groups and attach policies ao that they have full access to
 
 * SNS(Simple Service notification)
 
-SNS provides notofication services to end users.
-I have enabled email notification service.
-Select SNS from services menu.
-Create a topic.
-Give where you want the notification to be sent.You can give either your mobile number or Email.
-A confirmation mail will be sent to your email/mobile.Confirm it and start using the service.
+  * SNS provides notofication services to end users.
+  
+  * I have enabled email notification service.
+  
+  * Select SNS from services menu.
+  
+  * Create a topic.
+  
+  * Give where you want the notification to be sent.You can give either your mobile number or Email.
+  
+  * A confirmation mail will be sent to your email/mobile.Confirm it and start using the service.
 CloudWatch
 
-CloudWatch is used for monitoring metrics of various resources in AWS
+ *CloudWatch is used for monitoring metrics of various resources in AWS
 
-Click on Create Alarm
+ * Click on Create Alarm
 
-Choose for which service you want the alarm to be set.I have set an alarm to notify the user when more than two objects are pushed into S3 bucket.
+ * Choose for which service you want the alarm to be set.I have set an alarm to notify the user when more than two objects are pushed into S3 bucket.
 
-Give a name for your alarm.
+ * Give a name for your alarm.
 
-Set the threshold.
+ * Set the threshold.
 
-Set the state - which is alarm
+ * Set the state - which is alarm
 
-Once the alarm is sent you ll be notified by email/mobile(depending on what you have given in SNS)
-
+ * Once the alarm is sent you ll be notified by email/mobile(depending on what you have given in SNS)
 
 * Project Deployment on EC2 instance
 
