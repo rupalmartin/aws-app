@@ -54,15 +54,15 @@ Go to IAM and create groups and attach policies ao that they have full access to
 
 * RDS
 
- * Select RDS from services menu
+   *  Select RDS from services menu
 
- * Click on Launch Services
+   * Click on Launch Services
 
-  * Select the db instance you want to create.I have chosen Mysql.
+    *  Select the db instance you want to create.I have chosen Mysql.
 
- * Next step choose a use case - Dev/Test
+   * Next step choose a use case - Dev/Test
 
- * Give DB instance
+   * Give DB instance
 
  * Click No for multi AZ development
 
