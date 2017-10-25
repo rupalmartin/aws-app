@@ -47,7 +47,7 @@ select * from users;
 
 * Update: file time is updated 
 
-* File uploaded successfully(sample.jpeg)
+  *  File uploaded successfully(sample.jpeg)
 
 ![login2](images/upload2.jpg?raw=true "login2")
 
