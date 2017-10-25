@@ -27,7 +27,7 @@ A Spring MVC web application to
 ### Sample Demo Screenshots
 
 * Login
- * •	Login using credentials or register as a new user
+ * Login using credentials or register as a new user
 
 ![Login](/images/login.jpg?raw=true "Login screen")
 
