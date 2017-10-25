@@ -119,21 +119,21 @@ CloudWatch
   
 * Route 53
 
- * I have registered my domain on godaddy.com and have added the Name servers of Route 53 to it. It connects the end users to your applcation by converting domain names to IP addresses
+  * I have registered my domain on godaddy.com and have added the Name servers of Route 53 to it. It connects the end users to your applcation by converting domain names to IP addresses
  
- * Click on Route 53
+  * Click on Route 53
 
-  * For Route 53
+   * For Route 53
 
- * Click on Create Hosted Zones
+  * Click on Create Hosted Zones
 
- * Give a Domain anme of your choice.
+  * Give a Domain anme of your choice.
 
- * Click on create.
+  * Click on create.
 
- * You ll get a confirmation mail once your name is registered.
+  * You ll get a confirmation mail once your name is registered.
 
- * To make our applcation publicly available with the registered domain name, click on record set in route 53.Give a name For example : "www".Click yes for alias and select the beanstalk URL.Click on Create.It might take quite sometime for the domain to be available.
+  * To make our applcation publicly available with the registered domain name, click on record set in route 53.Give a name For example : "www".Click yes for alias and select the beanstalk URL.Click on Create.It might take quite sometime for the domain to be available.
 
 
 
