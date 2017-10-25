@@ -34,20 +34,21 @@ A Spring MVC web application to
 
 * Signup for an account in AWS
 Go to IAM and create groups and attach policies ao that they have full access to S3 , RDS ,CloudWatch,CloudFront,Route 53,Lambda and     SNS
-Attach a user to this group.
-IAM creates a link with which we can log in.
 
-* S3
+  * Attach a user to this group.
+  * IAM creates a link with which we can log in.
+
+  * S3
 
   * Select S3 from services menu.Click on create bucket.
 
    * Provide a bucket name, specify the region where you want the bucket to be created,enable versioning and click on create.
 
- * An empty bucket is created.
+   * An empty bucket is created.
 
- * Attach a life policy under Management tab.I have attached a policy to transfer the contents of the bucket to Standard IA after 75 days and later after 1 year to Amazon Glacier.
+  * Attach a life policy under Management tab.I have attached a policy to transfer the contents of the bucket to Standard IA after 75 days and later after 1 year to Amazon Glacier.
 
- *  Enable Replication.
+  * Enable Replication.
 
  * Enable SNS events, so that each time an object is put into object an alert is sent to the user.Configuration of SNS is explained later in the section.
 
