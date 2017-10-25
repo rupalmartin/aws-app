@@ -26,16 +26,18 @@ A Spring MVC web application to
 
 ### Sample Demo Screenshots
 
-* Login
- * Login using credentials or register as a new user
+* Login: Login using credentials or register as a new user
 
 ![Login](/images/login.jpg?raw=true "Login screen")
 
 ![login2](/images/login2.jpg?raw=true "login2")
+
  *	Database Entry: User details in database:
 select * from users;
 
 ![login2](images/db_login.jpg?raw=true "login2")
+
+* Upload: Choose the File you want to Upload and Enter the file name
 
 ![login2](images/upload.jpg?raw=true "upload")
 
@@ -43,11 +45,13 @@ select * from users;
 
 ![login2](images/upload_db.jpg?raw=true "login2")
 
+* Update: file time is updated 
+
 ![login2](images/update.jpg?raw=true "login2")
 
-![login2](images/download.jpg?raw=true "login2")
-
 * Download
+
+![login2](images/download.jpg?raw=true "login2")
 
 ![login2](images/download_cloudfront.jpg?raw=true "login2")
 
