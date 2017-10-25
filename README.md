@@ -26,9 +26,14 @@ A Spring MVC web application to
 
 ### Sample Demo Screenshots
 
+* Login
+ * •	Login using credentials or register as a new user
+
 ![Login](/images/login.jpg?raw=true "Login screen")
 
 ![login2](/images/login2.jpg?raw=true "login2")
+ *	Database Entry: User details in database:
+select * from users;
 
 ![login2](images/db_login.jpg?raw=true "login2")
 
@@ -42,9 +47,13 @@ A Spring MVC web application to
 
 ![login2](images/download.jpg?raw=true "login2")
 
+* Download
+
 ![login2](images/download_cloudfront.jpg?raw=true "login2")
 
 ![login2](images/delete.jpg?raw=true "login2")
+
+* Delete
 
 ![login2](images/delete_confirm.jpg?raw=true "login2")
 
