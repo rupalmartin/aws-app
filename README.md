@@ -49,6 +49,8 @@ select * from users;
 
 ![login2](images/update.jpg?raw=true "login2")
 
+![login2](images/images/update_db.jpg?raw=true "login2")
+
 * File uploaded successfully(sample.jpeg)
 
 ![login2](images/upload2.jpg?raw=true "login2")
