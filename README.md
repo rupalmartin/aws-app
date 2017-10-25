@@ -41,31 +41,31 @@ IAM creates a link with which we can log in.
 
   * Select S3 from services menu.Click on create bucket.
 
-Provide a bucket name, specify the region where you want the bucket to be created,enable versioning and click on create.
+ * Provide a bucket name, specify the region where you want the bucket to be created,enable versioning and click on create.
 
-An empty bucket is created.
+ * An empty bucket is created.
 
-Attach a life policy under Management tab.I have attached a policy to transfer the contents of the bucket to Standard IA after 75 days and later after 1 year to Amazon Glacier.
+ * Attach a life policy under Management tab.I have attached a policy to transfer the contents of the bucket to Standard IA after 75 days and later after 1 year to Amazon Glacier.
 
-Enable Replication.
+ *  Enable Replication.
 
-Enable SNS events, so that each time an object is put into object an alert is sent to the user.Configuration of SNS is explained later in the section.
+ * Enable SNS events, so that each time an object is put into object an alert is sent to the user.Configuration of SNS is explained later in the section.
 
 * RDS
 
-Select RDS from services menu
+ * Select RDS from services menu
 
-Click on Launch Services
+ * Click on Launch Services
 
-Select the db instance you want to create.I have chosen Mysql.
+  * Select the db instance you want to create.I have chosen Mysql.
 
-Next step choose a use case - Dev/Test
+ * Next step choose a use case - Dev/Test
 
-Give DB instance
+ * Give DB instance
 
-Click No for multi AZ development
+ * Click No for multi AZ development
 
-Create a name for the instance and provide master username and password.
+ * Create a name for the instance and provide master username and password.
 
 Give a database name
 
