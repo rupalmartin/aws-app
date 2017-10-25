@@ -32,7 +32,7 @@ A Spring MVC web application to
 
 ![login2](/images/login2.jpg?raw=true "login2")
 
-  * 	Database Entry: User details in database:
+  * Database Entry: User details in database:
 select * from users;
 
 ![login2](images/db_login.jpg?raw=true "login2")
