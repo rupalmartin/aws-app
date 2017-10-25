@@ -55,9 +55,9 @@ select * from users;
 
 ![login2](images/download_cloudfront.jpg?raw=true "login2")
 
-![login2](images/delete.jpg?raw=true "login2")
+* Deleting a file:
 
-* Delete
+![login2](images/delete.jpg?raw=true "login2")
 
 ![login2](images/delete_confirm.jpg?raw=true "login2")
 
