@@ -26,7 +26,9 @@ A Spring MVC web application to
 
 ### Sample Demo Screenshots
 
+![Login](/images/login.jpg?raw=true "Login screen")
 
+![login2](/images/login2.jpg?raw=true "login2")
 
 ### Pre-requisites Set Up
 
