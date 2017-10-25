@@ -109,25 +109,31 @@ CloudWatch
 
 * Project Deployment on EC2 instance
 
- * I have chosen deployed my web application on EC2 instance
- * I have installed apache tomcat server  version 7 on ec2 instance.
- * Now in order to deploy our file - Create a war of your project and upload it in this environment.Click on deploy.If everything goes  * well you will get a URL with which you access your application.
-Route 53
+  * I have chosen deployed my web application on EC2 instance
+  
+  * I have installed apache tomcat server  version 7 on ec2 instance.
+  
+  * Now in order to deploy our file - Create a war of your project and upload it in this environment.Click on deploy.If everything goes
+  
+  * well you will get a URL with which you access your application.
+  
+* Route 53
 
  * I have registered my domain on godaddy.com and have added the Name servers of Route 53 to it. It connects the end users to your applcation by converting domain names to IP addresses
-Click on Route 53
+ 
+ * Click on Route 53
 
- *Route 53
+  * For Route 53
 
-Click on Create Hosted Zones
+ * Click on Create Hosted Zones
 
-Give a Domain anme of your choice.
+ * Give a Domain anme of your choice.
 
-Click on create.
+ * Click on create.
 
-You ll get a confirmation mail once your name is registered.
+ * You ll get a confirmation mail once your name is registered.
 
-To make our applcation publicly available with the registered domain name, click on record set in route 53.Give a name For example : "www".Click yes for alias and select the beanstalk URL.Click on Create.It might take quite sometime for the domain to be available.
+ * To make our applcation publicly available with the registered domain name, click on record set in route 53.Give a name For example : "www".Click yes for alias and select the beanstalk URL.Click on Create.It might take quite sometime for the domain to be available.
 
 
 
