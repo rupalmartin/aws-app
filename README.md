@@ -9,7 +9,7 @@
 * Professor Sanjay Garje
 * ISA: Divyankitha Urs
 * Student: Rupal Martin 
-* Linkedin URL: [Rupal Martin](https://www.linkedin.com/in/rupal-martin-34272272/)
+* Linkedin URL:[Rupal Martin](https://www.linkedin.com/in/rupal-martin-34272272/)
 
 ### Table of Contents
 * Project Introduction
