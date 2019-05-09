@@ -31,10 +31,10 @@ public class LibraryConfig {
     @Bean
     public BasicDataSource dataSource() {
         BasicDataSource ds = new BasicDataSource();
-        ds.setUrl("jdbc:mysql://aws-app-281-db.ckg0faguue9u.us-east-1.rds.amazonaws.com:3306/aws-app-281-db");
+        ds.setUrl("jdbc:mysql://*******");
         ds.setDriverClassName("com.mysql.cj.jdbc.Driver");
-        ds.setUsername("rupaldb");
-        ds.setPassword("rmartin31");
+        ds.setUsername("***");
+        ds.setPassword("****");
 
         return ds;
     }
